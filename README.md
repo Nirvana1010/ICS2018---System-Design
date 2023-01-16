@@ -18,7 +18,7 @@ The fundamental way to understand "how a program runs on a computer" is to imple
 - Time-sharing and multitasking
 - Program performance optimization
 
-**[This project] (http://nju-ics.gitbooks.io/ics2018-programming-assignment/content/) is the programming assignment of the class ICS(Introduction to Computer System) in Department of Computer Science and Technology, Nanjing University.*
+**[This project](http://nju-ics.gitbooks.io/ics2018-programming-assignment/content/) is the programming assignment of the class ICS(Introduction to Computer System) in Department of Computer Science and Technology, Nanjing University.*
 
 This is the completed version of PA. The following subprojects/components are included.
 * [NEMU](/nemu)
